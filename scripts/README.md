@@ -1,1 +1,1 @@
-
+Scrpits dos exercícios
